@@ -1,3 +1,3 @@
 # PowerShell Basic
-## Lab2 - Software package
+## Lab1 - Software package
 get all installed software packages
