@@ -1,1 +1,3 @@
-# posh-basic_lab1
+# PowerShell Basic
+## Lab2 - Software package
+get all installed software packages
